@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://pasqal-io.github.io/qadence-mitigation/latest/v0.0.1/</loc>
+         <lastmod>2025-04-25</lastmod>
+    </url>
+    <url>
+         <loc>https://pasqal-io.github.io/qadence-mitigation/latest/v0.0.1/CODE_OF_CONDUCT/</loc>
+         <lastmod>2025-04-25</lastmod>
+    </url>
+    <url>
+         <loc>https://pasqal-io.github.io/qadence-mitigation/latest/v0.0.1/CONTRIBUTING/</loc>
+         <lastmod>2025-04-25</lastmod>
+    </url>
+    <url>
+         <loc>https://pasqal-io.github.io/qadence-mitigation/latest/v0.0.1/mitigation/</loc>
+         <lastmod>2025-04-25</lastmod>
+    </url>
+    <url>
+         <loc>https://pasqal-io.github.io/qadence-mitigation/latest/v0.0.1/mitigation/incoherent_error_mitigation/</loc>
+         <lastmod>2025-04-25</lastmod>
+    </url>
+    <url>
+         <loc>https://pasqal-io.github.io/qadence-mitigation/latest/v0.0.1/mitigation/readout_mitigation/</loc>
+         <lastmod>2025-04-25</lastmod>
+    </url>
+</urlset>
